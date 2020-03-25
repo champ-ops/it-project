@@ -37,6 +37,9 @@
     .work-content {
         text-align: center;
     }
+    .work-title .btn{
+        margin: auto;
+    }
 
     .col-3{
         width: 50%;
@@ -66,7 +69,12 @@
     .top-menu.show a{
         margin:10px 0 0;
     }
-   
+    .sign-in{
+        width: 215px;
+    }
+    #subscribe .button{
+        width: 180px;
+    }
 }
 @media (max-width: 768px) {
     .site {
