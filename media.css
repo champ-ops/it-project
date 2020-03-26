@@ -12,6 +12,9 @@
     .work-content {
         text-align: center;
     }
+    h2{
+        font-size: 36px;
+    }
     .col-3{
         width: 50%;
         display: flex;
@@ -128,9 +131,6 @@
     }
     .about-title {
         text-align: center;
-    }
-    h2{
-        font-size: 36px;
     }
     .work-title h2 {
         font-size: 30px;
