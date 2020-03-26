@@ -112,6 +112,9 @@
     .work-content {
         text-align: center;
     }
+    .play{
+        left: -10px;
+    }
     .col-3 {
         width: 50%;
         text-align: center;
