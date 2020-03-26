@@ -36,8 +36,11 @@
     .work-content {
         text-align: center;
     }
+    .work-title h2 {
+        margin:auto;
+    }
     .work-title .btn{
-        margin: 110px auto;
+        margin: 90px auto;
     }
     .col-3{
         width: 50%;
@@ -95,6 +98,9 @@
     .work-title h2 {
         text-align: center;
     }
+    .work-title .btn {
+        margin: 110px auto;
+    }
     .col-4 {
         width: 100%;
         display: flex;
@@ -122,5 +128,17 @@
     }
     .about-title {
         text-align: center;
+    }
+    .work-title h2 {
+        font-size: 30px;
+    }
+    .work-title .btn {
+        margin: 115px auto;
+    }
+    .sign-in {
+        width: 155px;
+    }
+    #subscribe .button {
+        width: 130px;
     }
 }
