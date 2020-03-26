@@ -51,6 +51,9 @@
         justify-content: center;
         padding-bottom: 15px;
     }
+    .play{
+        left: -10px;
+    }
     .burger{
         display: flex;
     }
